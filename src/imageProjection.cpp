@@ -16,7 +16,7 @@
 //    (uint16_t, ring, ring) (float, time, time)
 //)
 
- Ouster
+// Ouster
  struct PointXYZIRT {
      PCL_ADD_POINT4D;
      float intensity;
